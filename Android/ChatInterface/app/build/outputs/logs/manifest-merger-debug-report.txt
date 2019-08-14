@@ -1,0 +1,166 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:2:1-55:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2f816369daee5bd5a054aa78951153f0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/phillip/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fc4ba6f49ed94c9ce65fc4db20c3d87e/AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/70995690cb14d9e351c5ad0599c05632/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2f726bf1ffe80dab8d57e8bd191565ef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/187d414f003a1c40c992e66fdcdae8c2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/785bab013ebae67a8d07e6d88b7d68b4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8801ab40e72da33bcd06ae1781150c8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b353fbca80e3aafa4906d4cd20a39d23/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e12d13c0a9071fddc23946650331db12/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/phillip/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6318916b73c19a7212c50a5105572785/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/phillip/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/911ad85108c36170988ec25561c1c543/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/phillip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/36603cdfc70290cffd5894466d891b45/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/phillip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/deaf1f06f6b166184abd7bdb7c04bd23/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:2:1-55:12
+INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:3:5-43
+		INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:2:1-55:12
+		INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:2:1-55:12
+		INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:8:5-71
+	android:name
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:8:22-68
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:12:5-76
+	android:name
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:12:22-73
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:14:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:16:22-72
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:18:5-72
+	android:name
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:18:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:20:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:22:22-77
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:25:5-79
+	android:name
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:27:5-65
+	android:name
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:27:22-62
+application
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:30:5-51:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/phillip/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fc4ba6f49ed94c9ce65fc4db20c3d87e/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/phillip/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fc4ba6f49ed94c9ce65fc4db20c3d87e/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/70995690cb14d9e351c5ad0599c05632/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/70995690cb14d9e351c5ad0599c05632/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:36:9-35
+	android:label
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:34:9-41
+	android:roundIcon
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:35:9-54
+	android:icon
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:33:9-43
+	android:allowBackup
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:32:9-35
+	android:theme
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:37:9-40
+	android:name
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:31:9-40
+activity#com.tensorflow.chatinterface.ui.ChatActivity
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:40:9-49:20
+	android:screenOrientation
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:42:13-49
+	android:label
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:44:13-38
+	android:windowSoftInputMode
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:43:13-65
+	android:name
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:41:13-44
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:45:13-48:29
+action#android.intent.action.MAIN
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:46:17-69
+	android:name
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:46:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:47:27-74
+meta-data#IFLYTEK_APPKEY
+ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:53:5-83
+	android:value
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:53:16-40
+	android:name
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml:53:41-70
+uses-sdk
+INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml
+INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2f816369daee5bd5a054aa78951153f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/2f816369daee5bd5a054aa78951153f0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/phillip/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fc4ba6f49ed94c9ce65fc4db20c3d87e/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] /Users/phillip/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0.aar/fc4ba6f49ed94c9ce65fc4db20c3d87e/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/70995690cb14d9e351c5ad0599c05632/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite:1.13.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/tensorflow-lite-1.13.1.aar/70995690cb14d9e351c5ad0599c05632/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2f726bf1ffe80dab8d57e8bd191565ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/2f726bf1ffe80dab8d57e8bd191565ef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/187d414f003a1c40c992e66fdcdae8c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/187d414f003a1c40c992e66fdcdae8c2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/785bab013ebae67a8d07e6d88b7d68b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/785bab013ebae67a8d07e6d88b7d68b4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8801ab40e72da33bcd06ae1781150c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/d8801ab40e72da33bcd06ae1781150c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b353fbca80e3aafa4906d4cd20a39d23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b353fbca80e3aafa4906d4cd20a39d23/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e12d13c0a9071fddc23946650331db12/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/phillip/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/e12d13c0a9071fddc23946650331db12/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/phillip/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6318916b73c19a7212c50a5105572785/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/phillip/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/6318916b73c19a7212c50a5105572785/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/phillip/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/911ad85108c36170988ec25561c1c543/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/phillip/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/911ad85108c36170988ec25561c1c543/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/phillip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/36603cdfc70290cffd5894466d891b45/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/phillip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/36603cdfc70290cffd5894466d891b45/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/phillip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/deaf1f06f6b166184abd7bdb7c04bd23/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/phillip/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/deaf1f06f6b166184abd7bdb7c04bd23/AndroidManifest.xml:20:5-44
+INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml
+INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml
+		ADDED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/phillip/Desktop/PHILLIP/CS/mooc/coding-267/coding-267/Android/ChatInterface/app/src/main/AndroidManifest.xml
